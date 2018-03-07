@@ -10,4 +10,4 @@ Based on android samples
 
 By: Shayan Amani
 
-Feel free to PR. :heart_face:
+Feel free to PR. :heart_eyes:
