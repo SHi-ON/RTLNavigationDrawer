@@ -1,4 +1,4 @@
-# RTLNavigationDrawer
+# RTL Navigation Drawer
 
 Right-Sided NavigationDrawer for Android
 
