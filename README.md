@@ -10,4 +10,4 @@ Based on android samples
 
 By: Shayan Amani
 
-Feel free to contact me: shayan7amani@gmail.com
+Feel free to PR. :heart_face:
